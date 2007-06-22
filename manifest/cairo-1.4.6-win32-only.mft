@@ -1,0 +1,5 @@
+bin/libcairo-2.dll
+share/doc/cairo-1.4.6-win32-only/COPYING
+share/doc/cairo-1.4.6-win32-only/COPYING-LGPL-2.1
+share/doc/cairo-1.4.6-win32-only/COPYING-MPL-1.1
+manifest/cairo-1.4.6-win32-only.mft
